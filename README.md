@@ -87,11 +87,11 @@ There's always more to learn 👨‍🎓
 
 Mostly to make my family proud.
 
-I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ because it was free from my school and worth having. The bet is that the work [...]
+I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ Certificate because it was free from my school and worth having. The bet is that the work compounds before anyone pays you for it
 
-The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who opens[...]
+The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who opens it. Build the tool right, and you end up helping people in places you've never been to, that kind if impact to the world is what I enjoy doing!
 
-Also, I just like building things.
+I also just like building things. 
 
 ---
 
@@ -100,7 +100,7 @@ Also, I just like building things.
 ```
 1. Big Sports fan! ⚽️🏀🏈
 2. Love to travel, exploring the world and meeting new people is always a dream of mine
-3. Big gamer, from PlayStation, Nintendo, Xbox, PC, Ive tried them all 
+3. Big gamer, from PlayStation, Nintendo, Xbox, PC, I've tried them all 
 ```
 
 ---
@@ -111,6 +111,5 @@ Also, I just like building things.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gianvazquez08@gmail.com)
 
 
-
-
-This part of my life, this little part... is called happiness
+> *"This part of my life, this little part... is called happiness."*
+> — **Chris Gardner**
