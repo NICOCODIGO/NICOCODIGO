@@ -1,26 +1,63 @@
 ## Hi there 👋 I'm Gian Vazquez 👨‍💻
  
-Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rather than just displayed. I'm finishing a front-end internship at a Series A startup and currently expanding into backend work. Most interested in products where the software actually changes an outcome for someone!
- 
----
- 
-### 🚀 My Top Projects:
+Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rather than trusting them.
 
-**[Dispatch](https://github.com/NICOCODIGO/Dispatch-NYC-bike)** — Live rebalancing dashboard for NYC's Citi Bike network
- <img width="2560" height="1280" alt="thumbnail@2x" src="https://github.com/user-attachments/assets/9d7011d5-9211-4ee6-92ec-6c81d8c68d1d" />
- Reads the public GBFS feed, ranks all 2,509 stations by urgency, and shows the arithmetic behind every score. Built because operations tools usually ask you to trust a number without showing where it came from.
+---
+
+### 🚀 My Top Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [Dispatch](https://github.com/NICOCODIGO/Dispatch-NYC-bike)
+**Live rebalancing dashboard for NYC's Citi Bike network**
+
+Reads the public GBFS feed, ranks all 2,509 stations by urgency, and shows the arithmetic behind every score.
+
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
+![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/Live%20Data-green)
+
 🔗 [city-bike-sigma.vercel.app](https://city-bike-sigma.vercel.app)
 
+</td>
+<td width="50%">
 
-**[Overload](https://github.com/NICOCODIGO/Overload-game)** — Browser-based daily brain arcade
-<img width="1200" height="630" alt="opengraph-image" src="https://github.com/user-attachments/assets/5d84efcb-1274-45a5-bb49-83e384de0ef7" />
-Nine mini-games testing reaction time, memory, and pattern recognition, with scoring and daily progression. Backed by Cloudflare Workers.
+<img src="https://github.com/user-attachments/assets/9d7011d5-9211-4ee6-92ec-6c81d8c68d1d" width="100%" alt="Dispatch dashboard showing NYC bike stations map">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github.com/user-attachments/assets/5d84efcb-1274-45a5-bb49-83e384de0ef7" width="100%" alt="Overload arcade gameplay">
+
+</td>
+<td width="50%">
+
+### [Overload](https://github.com/NICOCODIGO/Overload-game)
+**Browser-based daily brain arcade**
+
+Nine mini-games testing reaction time, memory, and pattern recognition, with scoring and daily progression.
+
+![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
 🔗 [overloadarcade.com](https://overloadarcade.com)
- 
+
+</td>
+</tr>
+</table>
+
 ---
- 
+
 ### 🛠️ Skills
- 
+
 ```
 Languages:    HTML, CSS, JavaScript, TypeScript, 
 Front-end:    React,Next, Vite, Tailwind CSS, shadcn/ui, Recharts
@@ -30,44 +67,44 @@ Deployment:   Vercel, Cloudflare, Amplify
 Education:    A.S. Web Development, Bergen Community College
 Certified:    CompTIA Security+
 ```
- 
+
 ---
- 
+
 ### 🌱 Currently Learning
- 
+
 ```
 1. Agent-driven development writing PRDs and context
    documentation so AI agents can build autonomously
 2. MySQL and relational database design
 3. Testing frameworks and CI/CD pipelines
 ```
- 
+
 There's always more to learn 👨‍🎓
- 
+
 --- 
- 
+
 ### 💭 Why I Build
- 
+
 Mostly to make my family proud.
- 
-I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ because it was free from my school and worth having. The bet is that the work compounds before anyone pays you for it.
- 
-The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who opens it. Build the tool right and you end up helping in places you've never been to.
- 
+
+I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ because it was free from my school and worth having. The bet is that the work [...]
+
+The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who opens[...]
+
 Also, I just like building things.
- 
+
 ---
- 
+
 ### ⚡ Fun Facts
- 
+
 ```
 1. Big Sports fan! ⚽️🏀🏈
 2. Love to travel, exploring the world and meeting new people is always a dream of mine
 3. Big gamer, from PlayStation, Nintendo, Xbox, PC, Ive tried them all 
 ```
- 
+
 ---
- 
+
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/gian-vazquez-3b5b832ba)
