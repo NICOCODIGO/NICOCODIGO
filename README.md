@@ -4,13 +4,16 @@ Front-end developer based in Dumont, New Jersey, just outside New York City. I b
  
 ---
  
-### 🚀 My Top Projects
- 
+### 🚀 My Top Projects:
+
 **[Dispatch](https://github.com/NICOCODIGO/Dispatch-NYC-bike)** — Live rebalancing dashboard for NYC's Citi Bike network
-Reads the public GBFS feed, ranks all 2,509 stations by urgency, and shows the arithmetic behind every score. Built because operations tools usually ask you to trust a number without showing where it came from.
+ <img width="2560" height="1280" alt="thumbnail@2x" src="https://github.com/user-attachments/assets/9d7011d5-9211-4ee6-92ec-6c81d8c68d1d" />
+ Reads the public GBFS feed, ranks all 2,509 stations by urgency, and shows the arithmetic behind every score. Built because operations tools usually ask you to trust a number without showing where it came from.
 🔗 [city-bike-sigma.vercel.app](https://city-bike-sigma.vercel.app)
- 
+
+
 **[Overload](https://github.com/NICOCODIGO/Overload-game)** — Browser-based daily brain arcade
+<img width="1200" height="630" alt="opengraph-image" src="https://github.com/user-attachments/assets/5d84efcb-1274-45a5-bb49-83e384de0ef7" />
 Nine mini-games testing reaction time, memory, and pattern recognition, with scoring and daily progression. Backed by Cloudflare Workers.
 🔗 [overloadarcade.com](https://overloadarcade.com)
  
