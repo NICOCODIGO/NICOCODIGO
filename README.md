@@ -26,7 +26,8 @@ Reads the public GBFS feed, ranks all 2,509 stations by urgency, and shows the a
 </td>
 <td width="50%">
 
-<img src="https://github.com/user-attachments/assets/9d7011d5-9211-4ee6-92ec-6c81d8c68d1d" width="100%" alt="Dispatch dashboard showing NYC bike stations map">
+<img width="2560" height="1280" alt="thumbnail@2x" src="https://github.com/user-attachments/assets/a4da6d30-2b8a-43e1-8135-6f64f55d0f01" />
+
 
 </td>
 </tr>
