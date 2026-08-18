@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## I'm Gian Vazquez 👨‍💻
+## Hi there 👋 I'm Gian Vazquez 👨‍💻
  
 Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rather than just displayed. I'm finishing a front-end internship at a Series A startup and currently expanding into backend work. Most interested in products where the software actually changes an outcome for someone!
  
