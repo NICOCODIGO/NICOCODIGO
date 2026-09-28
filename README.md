@@ -1,6 +1,6 @@
 ## Hi there 👋 
  
-Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rather [...]
+Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rath[...]
 
 ---
 
@@ -8,6 +8,11 @@ Front-end developer based in Dumont, New Jersey, just outside New York City. I b
 
 <table>
 <tr>
+<td width="50%">
+
+<img width="2560" height="1280" alt="Security+ Quiz Platform" src="[YOUR_IMAGE_URL_HERE]" />
+
+</td>
 <td width="50%">
 
 ### [Security+ Quiz Platform](https://github.com/NICOCODIGO/SECURITYPLUS-QUIZ)
@@ -22,9 +27,6 @@ Full-featured study platform with domain quizzes, a 90-question mock exam, quest
 ![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 🔗 [certucation.click](https://certucation.click)
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
@@ -109,9 +111,9 @@ There's always more to learn 👨‍🎓
 
 Mostly to make my family proud.
 
-I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ Certificate because it was free from my school and worth having. The bet is that t[...]
+I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ Certificate because it was free from my school and worth having. The bet is t[...]
 
-The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who opens it.[...]
+The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who open[...]
 
 I also just like building things. 
 
