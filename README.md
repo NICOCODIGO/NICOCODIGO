@@ -26,7 +26,7 @@ Full-featured study platform with domain quizzes, a 90-question mock exam, quest
 </td>
 <td width="50%">
 
-<img width="2560" height="1280" alt="Security+ Quiz Platform" src="https://github.com/user-attachments/assets/a4da6d30-2b8a-43e1-8135-6f64f55d0f01" />
+<img width="2400" height="1260" alt="certucation-portfolio-card" src="https://github.com/user-attachments/assets/1a1d3ea3-6a4f-42d2-96da-b726c53532d9" />
 
 </td>
 </tr>
