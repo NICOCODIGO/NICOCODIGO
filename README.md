@@ -1,6 +1,6 @@
 ## Hi there 👋 
  
-Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rather than trusting them.
+Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rather [...]
 
 ---
 
@@ -8,6 +8,33 @@ Front-end developer based in Dumont, New Jersey, just outside New York City. I b
 
 <table>
 <tr>
+<td width="50%">
+
+### [Security+ Quiz Platform](https://github.com/NICOCODIGO/SECURITYPLUS-QUIZ)
+**Free practice platform for CompTIA Security+ (SY0-701) exam**
+
+Full-featured study platform with domain quizzes, a 90-question mock exam, question bank, user accounts with verification and 2FA, and cross-device sync. Every wrong answer explained.
+
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+🔗 [certucation.click](https://certucation.click)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img width="2560" height="1280" alt="thumbnail@2x" src="https://github.com/user-attachments/assets/a4da6d30-2b8a-43e1-8135-6f64f55d0f01" />
+
+
+</td>
 <td width="50%">
 
 ### [Dispatch](https://github.com/NICOCODIGO/Dispatch-NYC-bike)
@@ -22,12 +49,6 @@ Reads the public GBFS feed, ranks all 2,509 stations by urgency, and shows the a
 ![](https://img.shields.io/badge/Live%20Data-green)
 
 🔗 [city-bike-sigma.vercel.app](https://city-bike-sigma.vercel.app)
-
-</td>
-<td width="50%">
-
-<img width="2560" height="1280" alt="thumbnail@2x" src="https://github.com/user-attachments/assets/a4da6d30-2b8a-43e1-8135-6f64f55d0f01" />
-
 
 </td>
 </tr>
@@ -88,9 +109,9 @@ There's always more to learn 👨‍🎓
 
 Mostly to make my family proud.
 
-I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ Certificate because it was free from my school and worth having. The bet is that the work compounds before anyone pays you for it
+I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ Certificate because it was free from my school and worth having. The bet is that t[...]
 
-The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who opens it. Build the tool right, and you end up helping people in places you've never been to, that kind if impact to the world is what I enjoy doing!
+The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who opens it.[...]
 
 I also just like building things. 
 
