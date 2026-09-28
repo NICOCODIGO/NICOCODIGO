@@ -10,11 +10,6 @@ Front-end developer based in Dumont, New Jersey, just outside New York City. I b
 <tr>
 <td width="50%">
 
-<img width="2560" height="1280" alt="Security+ Quiz Platform" src="[YOUR_IMAGE_URL_HERE]" />
-
-</td>
-<td width="50%">
-
 ### [Security+ Quiz Platform](https://github.com/NICOCODIGO/SECURITYPLUS-QUIZ)
 **Free practice platform for CompTIA Security+ (SY0-701) exam**
 
@@ -29,14 +24,13 @@ Full-featured study platform with domain quizzes, a 90-question mock exam, quest
 🔗 [certucation.click](https://certucation.click)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-<img width="2560" height="1280" alt="thumbnail@2x" src="https://github.com/user-attachments/assets/a4da6d30-2b8a-43e1-8135-6f64f55d0f01" />
-
+<img width="2560" height="1280" alt="Security+ Quiz Platform" src="https://github.com/user-attachments/assets/a4da6d30-2b8a-43e1-8135-6f64f55d0f01" />
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Dispatch](https://github.com/NICOCODIGO/Dispatch-NYC-bike)
@@ -53,13 +47,13 @@ Reads the public GBFS feed, ranks all 2,509 stations by urgency, and shows the a
 🔗 [city-bike-sigma.vercel.app](https://city-bike-sigma.vercel.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-<img src="https://github.com/user-attachments/assets/5d84efcb-1274-45a5-bb49-83e384de0ef7" width="100%" alt="Overload arcade gameplay">
+<img width="2560" height="1280" alt="Dispatch dashboard" src="https://github.com/user-attachments/assets/a4da6d30-2b8a-43e1-8135-6f64f55d0f01" />
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Overload](https://github.com/NICOCODIGO/Overload-game)
@@ -73,6 +67,11 @@ Nine mini-games testing reaction time, memory, and pattern recognition, with sco
 ![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 🔗 [overloadarcade.com](https://overloadarcade.com)
+
+</td>
+<td width="50%">
+
+<img src="https://github.com/user-attachments/assets/5d84efcb-1274-45a5-bb49-83e384de0ef7" width="100%" alt="Overload arcade gameplay">
 
 </td>
 </tr>
