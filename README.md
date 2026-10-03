@@ -97,10 +97,10 @@ Certified:    CompTIA Security+
 ### 🌱 Currently Learning
 
 ```
-1. Agent-driven development writing PRDs and context
-   documentation so AI agents can build autonomously
+1. Advanced React and Next.js patterns for production apps
 2. MySQL and relational database design
-3. Testing frameworks and CI/CD pipelines
+3. Testing frameworks and CI/CD workflows
+4. Agent-driven development for building with clear PRDs and context docs
 ```
 
 There's always more to learn 👨‍🎓
