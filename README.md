@@ -1,6 +1,6 @@
 ## Hi there 👋 
  
-Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rath[...]
+Front-end developer based in Dumont, New Jersey, just outside New York City. I build data-heavy interfaces dashboards, visualizations, and internal tools where the numbers need to be checkable rather than decorative. I like turning messy real-world systems into clear, trustworthy tools people can actually use.
 
 ---
 
@@ -82,11 +82,12 @@ Nine mini-games testing reaction time, memory, and pattern recognition, with sco
 ### 🛠️ Skills
 
 ```
-Languages:    HTML, CSS, JavaScript, TypeScript, 
-Front-end:    React,Next, Vite, Tailwind CSS, shadcn/ui, Recharts
-Back-end:     Node.js, Cloudflare Workers
+Languages:    HTML, CSS, JavaScript, TypeScript, Java, SQL
+Front-end:    React, Next.js, Vite, Tailwind CSS, shadcn/ui, Recharts, Mapbox
+Back-end:     Node.js, Spring Boot, Cloudflare Workers, REST APIs
+Data/Auth:    PostgreSQL, live data ingestion, user auth, 2FA, verification flows
 Tools:        Git, GitHub, Figma, VS Code
-Deployment:   Vercel, Cloudflare, Amplify
+Deployment:   Vercel, Cloudflare, AWS Amplify
 Education:    A.S. Web Development, Bergen Community College
 Certified:    CompTIA Security+
 ```
@@ -110,9 +111,9 @@ There's always more to learn 👨‍🎓
 
 Mostly to make my family proud.
 
-I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ Certificate because it was free from my school and worth having. The bet is t[...]
+I took the internship before it paid anything, built the projects on nights and weekends, and picked up the Security+ Certificate because it was free from my school and worth having. The bet is that by making something real, people notice, and opportunities show up. I kept going because the work felt useful and I wanted to be better at it.
 
-The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who open[...]
+The rest is leverage. A doctor changes someone's day one person at a time and I respect it. But software is the one thing I know how to make where a single good decision reaches everyone who opens it. That scale is what keeps me building.
 
 I also just like building things. 
 
